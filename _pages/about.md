@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>The University of Melbourne</a>. Resilient Youth. Tasmanian Walking Company. 
 
 profile:
   align: right
   image: Liam_Overland_Picture.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>I am a nomad</p>
-    <p>Yippee</p>
-    <p>Woohoo</p>
+    <p>Hobart/Melbourne, Australia</p>
+
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a mathematician, musician, and hiker who is still figuring out how to summarise my interests into one clean sentence. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I recently completed a Master's of Mathematics at The University of Melbourne, completing a thesis under the supervision of Dr. Daniel Murfet and Dr. Thomas Quella. 
+The thesis, title [Phase Transitions in Neural Networks](http://therisingsea.org/notes/MSc-Carroll.pdf), aimed to distill Sumio Watanabe's _Singular Learning Theory_ (SLT) and explore how it can be used to explain why neural networks generalise so well. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to that I completed a Diploma of Music in Clarinet performance, and I thoroughly enjoy conducting. I am deeply passionate about making Australian classical music more relevant and engaging for the audience it seeks to serve, by transforming _what_ we play and _how_ it is played. 
+
+In 2022/23, I have been a hiking guide on the 6-day Overland Track with Tasmanian Walking Company. It has been an immense privilege to traverse this parallel universe over 12 times in the past 12 months.  
