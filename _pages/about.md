@@ -28,8 +28,8 @@ In 2022/23, I have been a hiking guide on the 6-day Overland Track with Tasmania
 
 <!--{% include random-image.html %}-->
 
-I love this picture! And [this document]({{ site.url }}/uni_assignments/Lie_Algebras_Assignment_1_FINAL.pdf) is awesome. 
+<!--I love this picture! And [this document]({{ site.url }}/uni_assignments/Lie_Algebras_Assignment_1_FINAL.pdf) is awesome.-->
 
-[!Overland]({{ site.url }}/Overland_highlights/IMG_1272.png)
+<!--[!Overland]({{ site.url }}/Overland_highlights/IMG_1272.png)-->
 
 
