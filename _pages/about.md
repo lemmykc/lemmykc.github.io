@@ -26,4 +26,10 @@ Prior to that I completed a Diploma of Music in Clarinet performance, and I thor
 
 In 2022/23, I have been a hiking guide on the 6-day Overland Track with Tasmanian Walking Company. It has been an immense privilege to traverse this parallel universe over 12 times in the past 12 months.  
 
-{% include random-image.html %}
+<!--{% include random-image.html %}-->
+
+I love this picture! And [this document]({{ site.url }}/uni_assignments/Lie_Algebras_Assignment_1_FINAL.pdf) is awesome. 
+
+[!Overland]({{ site.url }}/Overland_highlights/IMG_1272.png)
+
+
