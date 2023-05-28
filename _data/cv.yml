@@ -15,7 +15,7 @@
       institution: The University of Melbourne, Melbourne, Australia
       year: 2021 - 2022
       description:
-imdb        - Thesis in [Phase Transitions in Neural Networks](http://therisingsea.org/notes/MSc-Carroll.pdf) supervised by Dr. Daniel Murfet and Dr. Thomas Quella
+        - Thesis in [Phase Transitions in Neural Networks](http://therisingsea.org/notes/MSc-Carroll.pdf) supervised by Dr. Daniel Murfet and Dr. Thomas Quella
         - title: Pure Mathematics
           contents:
             - Functional Analysis
@@ -50,9 +50,7 @@ imdb        - Thesis in [Phase Transitions in Neural Networks](http://therisings
       institution: St Leonard's College, Melbourne, Australia
       year: 2010 - 2015
       description:
-        - Studied HL English, HL Music, HL Economics, and SL Indonesian, SL Physics and SL Mathematics (ironically), 
-        as well as Theory of Knowledge and an extended essay in Music analysing the jazz and classical elements of 
-        George Gershwin's Rhapsody in Blue. 
+        - Studied HL English, HL Music, HL Economics, and SL Indonesian, SL Physics and SL Mathematics (ironically), as well as Theory of Knowledge and an extended essay in Music analysing the jazz and classical elements of George Gershwin's Rhapsody in Blue. 
 
 - title: Experience
   type: time_table

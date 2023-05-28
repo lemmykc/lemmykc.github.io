@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /assignments/
+title: assignments
 description: My completed assignments from my Masters of Mathematics degree. 
 nav: true
 nav_order: 5
