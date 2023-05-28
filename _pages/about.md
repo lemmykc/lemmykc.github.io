@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The University of Melbourne</a>. Resilient Youth. Tasmanian Walking Company. 
+subtitle: Mathematician, Musician, Hiker. 
 
 profile:
   align: right
   image: Liam_Overland_Picture.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Hobart/Melbourne, Australia</p>
 
