@@ -25,3 +25,5 @@ The thesis, title [Phase Transitions in Neural Networks](http://therisingsea.org
 Prior to that I completed a Diploma of Music in Clarinet performance, and I thoroughly enjoy conducting. I am deeply passionate about making Australian classical music more relevant and engaging for the audience it seeks to serve, by transforming _what_ we play and _how_ it is played. 
 
 In 2022/23, I have been a hiking guide on the 6-day Overland Track with Tasmanian Walking Company. It has been an immense privilege to traverse this parallel universe over 12 times in the past 12 months.  
+
+{% include random-image.html %}
