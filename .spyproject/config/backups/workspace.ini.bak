@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['_config.yml', '_pages/about.md', '_news/announcement_1.md']
+recent_files = ['_config.yml', '_pages/about.md', '_news/announcement_1.md', '_pages/cv.md', '_pages/dropdown.md', '_pages/projects.md', '_pages/publications.md', '_pages/repositories.md', '_pages/teaching.md', '_data/cv.yml']
 
 [main]
 version = 0.2.0

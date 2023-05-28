@@ -15,7 +15,7 @@
       institution: The University of Melbourne, Melbourne, Australia
       year: 2021 - 2022
       description:
-        - Thesis in [_Phase Transitions in Neural Networks_](http://therisingsea.org/notes/MSc-Carroll.pdf) supervised by Dr. Daniel Murfet and Dr. Thomas Quella
+imdb        - Thesis in [Phase Transitions in Neural Networks](http://therisingsea.org/notes/MSc-Carroll.pdf) supervised by Dr. Daniel Murfet and Dr. Thomas Quella
         - title: Pure Mathematics
           contents:
             - Functional Analysis
@@ -24,10 +24,10 @@
             - Partial Differential Equations
         - title: Applied Mathematics
           contents:
-            - Advanced Methods: Transforms
+            - "Advanced Methods: Transforms"
             - Random Matrix Theory
             - Mathematical Biology
-            - Advanced Methods: Differential Equations
+            - "Advanced Methods: Differential Equations"
         - title: Statistics
           contents:
             - Mathematical Statistics
