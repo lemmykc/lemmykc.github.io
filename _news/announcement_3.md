@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Presented the [completion talk](https://youtu.be/S-SxM2-7tiY) for my Master's thesis.
+date: 2021-10-22 
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented the [completion talk](https://youtu.be/S-SxM2-7tiY) for my Master's thesis.
