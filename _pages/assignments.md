@@ -3,8 +3,7 @@ layout: page
 permalink: /assignments/
 title: assignments
 description: My completed assignments from my Masters of Mathematics degree. 
-nav: true
-nav_order: 5
+nav: false
 ---
 
 Here are the set of assignments I completed across the course of my Masters
