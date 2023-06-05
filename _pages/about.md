@@ -26,10 +26,14 @@ I have also completed a Diploma of Music in Clarinet performance, and I thorough
 
 In 2022/23, I have been a lead hiking guide on the 6-day Overland Track with Tasmanian Walking Company. It has been an immense privilege to traverse this parallel universe over 16 times in the past 12 months. Between this work and other recreational trips, I spent about 125 days in the last 15 months in wilderness (as of June 2023).
 
+You can contact me at lemmykc@gmail.com . If my interests seem aligned to yours, please reach out! 
+
+TESTING
+
 {% include random-image.html %}
 
-I love this picture! And [this document]({{ site.url }}/uni_assignments/Lie_Algebras_Assignment_1_FINAL.pdf) is awesome.
+I love this picture! And [this document](assets/pdf/uni_assignments/Lie_Algebras_Assignment_1_FINAL.pdf) is awesome.
 
-[!Overland]({{ site.url }}/Overland_highlights/IMG_1272.png)
+![Overland](assets/img/Overland_highlights/IMG_1272.png)
 
 

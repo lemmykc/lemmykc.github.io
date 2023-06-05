@@ -1,4 +1,4 @@
-{% assign imageFiles = site.static_files | where: "path", “/Overland_highlights” %}
+{% assign imageFiles = site.static_files | where: "path", “assets/img/Overland_highlights” %}
 {% assign randomIndex = imageFiles | sample %}
 
 <img src="{{ randomIndex.path }}" alt="Random Image">
