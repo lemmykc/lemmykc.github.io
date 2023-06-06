@@ -30,9 +30,11 @@ You can contact me at lemmykc@gmail.com . If my interests seem aligned to yours,
 
 TESTING
 
-{% include random-image.liquid %}
+{% random_image %}
 
 I love this picture! And [this document](assets/pdf/uni_assignments/Lie_Algebras_Assignment_1_FINAL.pdf) is awesome.
+
+<img src="assets/img/Overland_highlights/IMG_1272.png" width='500' height='300'>
 
 ![Overland](assets/img/Overland_highlights/IMG_1272.png)
 
