@@ -30,7 +30,7 @@ You can contact me at lemmykc@gmail.com . If my interests seem aligned to yours,
 
 TESTING
 
-{% include _includes/random-image.html %}
+{% include random-image.liquid %}
 
 I love this picture! And [this document](assets/pdf/uni_assignments/Lie_Algebras_Assignment_1_FINAL.pdf) is awesome.
 

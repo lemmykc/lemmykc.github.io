@@ -8,4 +8,4 @@ nav_order: 6
 ---
 
 <!-- _pages/publications.md -->
-{% include _includes/image-gallery.html folder="assets/img/Overland_highlights" %}
+{% include image-gallery.liquid folder="assets/img/Overland_highlights" %}
