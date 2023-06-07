@@ -2,20 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematician, Musician, Hiker. 
+subtitle: Mathematician, Musician, Hiker. Melbourne, Australia.
 
-profile:
-  align: center
-  image: Liam_Overland_Picture.png
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>Melbourne / Hobart, Australia</p>
+# profile:
+#   align: right
+#   image: Liam_Overland_Picture.png
+#   image_circular: false # crops the image to make it circular
+#   address: >
+#     <p>Melbourne / Hobart, Australia</p>
 
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<p align="center">
+<img src="assets/img/Liam_Overland_Picture.png" style="max-width:80%;">
+</p>
+
 
 I am a mathematician, musician, and hiker. Intuitively, these things feel deeply interconnected to me, though many people are surprised at how orthogonal these interests seemingly are. At the very least, they each fill me with joy through a combination of beauty, love and wildness. 
 
@@ -34,7 +38,9 @@ TESTING
 
 I love this picture! And [this document](assets/pdf/uni_assignments/Lie_Algebras_Assignment_1_FINAL.pdf) is awesome.
 
-<img src="assets/img/Overland_highlights/IMG_1272.png" width='500' height='300'>
+<p align="center">
+<img src="assets/img/Overland_highlights/IMG_1272.png" style="max-width:20%;">
+</p>
 
 ![Overland](assets/img/Overland_highlights/IMG_1272.png)
 

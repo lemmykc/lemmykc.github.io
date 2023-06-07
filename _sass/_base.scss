@@ -112,11 +112,17 @@ blockquote {
   margin-right: 1rem;
 }
 
+.profile.float-center { /* Added class for center alignment */
+  display: flex;
+  justify-content: center;
+}
+
+
 // Profile picture
 
 @media (min-width: 576px) {
   .profile {
-    width: 100%;
+    width: 80%;
     .address {
       p { display: block; }
     }
