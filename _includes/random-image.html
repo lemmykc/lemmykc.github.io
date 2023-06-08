@@ -1,5 +1,4 @@
-{% assign imageFiles = site.static_files | where: "path", "assets/img/Overland_highlights" %}
-{% assign dayOfYear = site.time | date: "%j" | plus: 0 %}  // Get the current day of the year
-{% assign randomIndex = dayOfYear | modulo: imageFiles.size %}  // Generate a random index based on the day of the year
+{% assign imageFiles = site.static_files | where: "path", “assets/img/Overland_highlights” %}
+{% assign randomIndex = imageFiles | sample %}
 
-<img src="{{ imageFiles[randomIndex].path }}" alt="Random Image">
+<img src="{{ randomIndex.path }}" alt="Random Image" style="max-width:80%;">
