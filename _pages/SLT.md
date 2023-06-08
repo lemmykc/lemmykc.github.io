@@ -22,6 +22,8 @@ Thanks to a grant from the [Long Term Future Fund](https://funds.effectivealtrui
 **Date:** October 2021 <br>
 **Summary:** The thesis studies Sumio Watanabe's _Singular Learning Theory_ (SLT) and explores how it can be used to explain why neural networks generalise so well, and how to think about and analyse phase transitions in deep learning. We illustrate some important aspects of Watanabe’s theory for small neural networks by examining the relationship between singularities, phases and phase transitions. I demonstrate the existence of both first and second order phase transitions in the Bayesian posterior for simple ReLU neural networks by varying the true distribution.
 
+You can find the code used to generate my Bayesian posterior experiments using HMC [here](https://github.com/lemmykc/phase-transitions-neural-networks).
+
 <p align="center">
 <img src="{{site.baseurl}}/DSLT_imgs/4_PT1_combined_animate.gif" style="max-width:60%;">
 </p>

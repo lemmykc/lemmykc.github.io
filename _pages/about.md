@@ -55,10 +55,10 @@ In 2022/23, I have been a lead hiking guide on the 6-day Overland Track with Tas
     <img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_6704.png&w=500&h=500&output=jpg&q=80&t=square" style="max-width:100%;" alt="Snow gums">
   </div>
   <div class="column">
-    <img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_2565.png&w=500&h=500&output=jpg&q=80&t=square" style="max-width:100%;" alt="Fagus at sunset">
+  <img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_8824.png&w=500&h=500&output=jpg&q=80&t=square" style="max-width:100%;" alt="Cushion plant">
   </div>
   <div class="column">
-    <img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_8824.png&w=500&h=500&output=jpg&q=80&t=square" style="max-width:100%;" alt="Cushion plant">
+    <img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_2565.png&w=500&h=500&output=jpg&q=80&t=square" style="max-width:100%;" alt="Fagus at sunset">
   </div>
 </div>
 
