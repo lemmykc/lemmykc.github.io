@@ -33,7 +33,7 @@ I recently studied a Master's of Mathematics at The University of Melbourne, com
 
 I have also completed a Diploma of Music in Clarinet performance, and I thoroughly enjoy conducting. I am deeply passionate about making Australian classical music more relevant and engaging for the audience it seeks to serve, by transforming _what_ we play and _how_ it is played, in service of a more connected community and sense of identity. 
 
-In 2022/23, I have been a lead hiking guide on the 6-day Overland Track with Tasmanian Walking Company. It has been an immense privilege to traverse this parallel universe over 16 times in the past 12 months. Between this work and other recreational trips, I spent over 120 days in wilderness in 2022/23. 
+In 2022/23, I have been a lead hiking guide on the 6-day Overland Track with Tasmanian Walking Company. It has been an immense privilege to traverse this parallel universe over 16 times in the past 12 months. Between this work and other recreational trips, I spent over 120 days in wilderness in 2022/23. You can see photos of the most magical place on earth here:
 
 <h3 align="center">
 <a href="/hiking/gallery/">Overland Gallery</a>

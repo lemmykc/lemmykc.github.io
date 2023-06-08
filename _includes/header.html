@@ -4,10 +4,10 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
+          <img src="{{ site.baseurl }}/assets/img/lemmykc_github_favicon.png" width="26" height="26" alt="Custom Icon">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             <!--<i class="fab fa-github"></i>-->
-            <img src="{{ site.baseurl }}/assets/img/lemmykc_github_favicon.png" width="26" height="26" alt="Custom Icon">
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
