@@ -1,4 +1,6 @@
-{% assign imageFiles = site.static_files | where: "path", “assets/img/Overland_highlights” %}
-{% assign randomIndex = imageFiles | sample %}
+{% assign imageFiles = site.static_files | where: "path", site.baseurl | append: "/assets/img/Overland_highlights" | strip %}
+{% assign dayOfYear = site.time | date: "%j" | plus: 0 %}
+{% assign randomIndex = dayOfYear | modulo: imageFiles.size %}
+{% assign randomImagePath = imageFiles[randomIndex].path %}
 
-<img src="{{ randomIndex.path }}" alt="Random Image" style="max-width:80%;">
+<img src="{{ randomImagePath }}" alt="Random Image">

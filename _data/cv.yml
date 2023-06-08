@@ -1,12 +1,10 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Liam Carroll
-    - name: Date of Birth
-      value: February 1998
-    - name: Languages
-      value: English
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Liam Carroll
+#     - name: Languages
+#       value: English
 
 - title: Education
   type: time_table
