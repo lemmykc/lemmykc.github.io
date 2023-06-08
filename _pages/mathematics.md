@@ -5,8 +5,8 @@ nav: true
 nav_order: 4
 dropdown: true
 children: 
-    - title: assignments
-      permalink: /assignments/
+    - title: notes
+      permalink: /notes/
     - title: divider
     - title: singular learning theory
       permalink: /SLT/

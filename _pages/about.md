@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematician, Musician, Hiker. Melbourne, Australia.
+subtitle: Mathematician, Musician, Hiker. <br> Melbourne, Australia.
 
 # profile:
 #   align: right
