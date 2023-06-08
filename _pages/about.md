@@ -12,13 +12,13 @@ subtitle: Mathematician, Musician, Hiker. <br> Melbourne, Australia. <br> lemmyk
 #     <p>Melbourne / Hobart, Australia</p>
 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="center">
 <!--<img src="assets/img/Liam_Overland_Picture.png" style="max-width:80%;">-->
-<img src="//wsrv.nl/?url=lemmykc.github.io/assets/img/Liam_Overland_Picture.png&q=50" style="max-width:80%;" alt="Liam on Overland">
+<img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Liam_Overland_Picture.png&output=jpg&q=80" style="max-width:80%;" alt="Liam on Overland">
 </p>
 
 
@@ -36,13 +36,13 @@ In 2022/23, I have been a lead hiking guide on the 6-day Overland Track with Tas
 </h1>
 <div class="row">
   <div class="column">
-    <img src="//wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_6704.png&q=50" style="max-width:100%;" alt="Snow gums">
+    <img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_6704.png&output=jpg&q=80" style="max-width:100%;" alt="Snow gums">
   </div>
   <div class="column">
-    <img src="//wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_2565.png&q=50" style="max-width:100%;" alt="Fagus at sunset">
+    <img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_2565.png&output=jpg&q=80" style="max-width:100%;" alt="Fagus at sunset">
   </div>
   <div class="column">
-    <img src="//wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_8824.png&q=50" style="max-width:100%;" alt="Cushion plant">
+    <img src="https://wsrv.nl/?url=lemmykc.github.io/assets/img/Overland_highlights/IMG_8824.png&output=jpg&q=80" style="max-width:100%;" alt="Cushion plant">
   </div>
 </div>
 
