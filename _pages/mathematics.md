@@ -6,8 +6,8 @@ nav_order: 4
 dropdown: true
 children: 
     - title: singular learning theory
-      permalink: /SLT/
+      permalink: /mathematics/SLT/
     - title: divider
     - title: notes
-      permalink: /notes/
+      permalink: /mathematics/notes/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /in wildness/
+permalink: /hiking/in wildness/
 title: In Wildness - Talk
 nav: false
 ---

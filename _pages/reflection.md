@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /reflections/
+permalink: /hiking/reflections/
 title: Reflections
 nav: false
 ---
 
 <p align="center">
-<img src="assets/img/Final_Ossa.png" style="max-width:100%;">
+<img src="{{site.baseurl}}/assets/img/Final_Ossa.png" style="max-width:100%;">
 </p>
 
 Since March 2022, I have had the immense privilege of being a guide for the Tasmnaian Walking Company on the Overland Track, a place I truly consider to be the most magical on earth. This photo was taken just before I descended off of Mt Ossa, Tasmania's rooftop, for the final time in a while as I bring this chapter to a close (for now). 
