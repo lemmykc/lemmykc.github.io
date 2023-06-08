@@ -5,7 +5,8 @@ title: notes
 nav: false
 ---
 
-#Assignments
+# Assignments
+
 Here are the set of assignments I completed across the course of my Masters
 degree. In completing these assignments I was greatly assisted by the work 
 of those that had come before me, so I figure it is only fair to share my work

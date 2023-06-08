@@ -6,8 +6,8 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: reflection
-      permalink: /reflection/
+    - title: reflections
+      permalink: /reflections/
     - title: divider
     - title: in wildness
       permalink: /in wildness/

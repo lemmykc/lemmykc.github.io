@@ -31,7 +31,7 @@
     }
 </style>
 
-<ul class="image-gallery">
+<ul class="image-gallery" id="shuffled-gallery">
 {% for file in site.static_files %}
     {% if file.path contains include.folder %}
     {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.png' %}
@@ -45,3 +45,13 @@
     {% endif %}
 {% endfor %}
 </ul>
+
+<script>
+    function shuffleGallery() {
+        var ul = document.getElementById("shuffled-gallery");
+        for (var i = ul.children.length; i >= 0; i--) {
+            ul.appendChild(ul.children[Math.random() * i | 0]);
+        }
+    }
+    shuffleGallery();
+</script>
