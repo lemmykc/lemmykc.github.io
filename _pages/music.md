@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /music/
-title: music
+title: Music
 nav: true
 nav_order: 5
 dropdown: true
 children: 
-    - title: memorial for Angus
+    - title: Memorial for Angus
       permalink: /music/memorial-for-angus/
 ---
 

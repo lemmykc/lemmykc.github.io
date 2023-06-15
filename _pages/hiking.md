@@ -1,18 +1,18 @@
 ---
 layout: page
 permalink: /hiking/
-title: hiking
+title: Hiking
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: reflections
+    - title: Reflections
       permalink: /hiking/reflections/
     - title: divider
-    - title: in wildness
+    - title: In Wildness
       permalink: /hiking/in wildness/
     - title: divider
-    - title: overland gallery
+    - title: Overland Gallery
       permalink: /hiking/overland gallery/      
 ---
 

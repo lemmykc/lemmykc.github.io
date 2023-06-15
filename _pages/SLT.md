@@ -5,7 +5,7 @@ title: Singular Learning Theory (SLT)
 nav: false
 ---
 
-# Distilling SLT on Less Wrong
+# Distilling SLT on LessWrong
 
 Thanks to a grant from the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future), I am currently writing a sequence of posts on LessWrong that distills the very pure-mathematical Singular Learning Theory and translates the key lessons, claims and findings of my thesis into a more palatable format. The theory could go some way to helping the Alignment problem with potential applications in mechanistic interpretability. 
 

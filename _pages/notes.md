@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /mathematics/notes/
-title: notes
+title: Notes
 nav: false
 ---
 

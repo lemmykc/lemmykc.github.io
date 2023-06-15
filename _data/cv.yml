@@ -54,20 +54,20 @@
 - title: Employment
   type: time_table
   contents:
-    - title: Distilling Singular Learning Theory in Less Wrong Blogposts
+    - title: Distilling Singular Learning Theory in LessWrong Blogposts
       institution: Independent researcher
       year: 2023 - present 
-      description: Supported by Open Philanthropy's Long-Term Future Fund, I am synthesising the essence of Singular Learning Theory for the broader AI community by removing technical clutter from my master's thesis, explaining how to think about phase transitions in neural networks. The sequence of LessWrong posts can be found on my profile <a href= "https://www.lesswrong.com/users/liam-carroll">here</a>.
+      description: Supported by Open Philanthropy's Long-Term Future Fund, I am synthesising the essence of Singular Learning Theory for the broader AI community by removing technical clutter from my master's thesis and explaining how to think about phase transitions in neural networks. The sequence of LessWrong posts can be found on my profile <a href= "https://www.lesswrong.com/users/liam-carroll">here</a>.
       
     - title: Lead Hiking Guide
       institution: Tasmanian Walking Company
       year: 2022 - present
-      description: I guide six-day hikes in the Tasmanian wilderness for Tasmanian Walking Company. I manage group welfare and safety in the outdoors, provide conversation and nature interpretations, and provide hospitality in the private huts, leading groups of 12 professional and retired adults. 
+      description: Guide six-day hikes in the Tasmanian wilderness for Tasmanian Walking Company. I manage group welfare and safety in the outdoors, provide conversation and nature interpretations, and provide hospitality in the private huts, leading groups of 12 professional and retired adults. 
 
     - title: Data Scientist 
       year: 2019 - present
       institution: Resilient Youth Australia
-      description: I develop new statistical methodologies for dealing with survey responses,  and use tools such as ggplot2 to devise simple yet effective visualisations to communicate survey results to school clients.
+      description: Develop new statistical methodologies for dealing with survey responses, and use tools such as ggplot2 to devise simple yet effective visualisations to communicate survey results to school clients.
 
     - title: Mathematics Tutor
       institution: The University of Melbourne
@@ -77,12 +77,12 @@
     - title: Private Mathematics and Music Tutor, and Assistant 
       institution: Independent 
       year: 2016 - 2021
-      description: I have been a private tutor for over 40 students across a wide range of ages, skillsets, and personal backgrounds. Have also taught music at several band camps for Gippsland Grammar School, St Leonard’s College, and the Combined Schools Music Festival. 
+      description: Tutored over 40 students across a wide range of ages, skillsets, and personal backgrounds. Have also taught music at several band camps for Gippsland Grammar School, St Leonard’s College, and the Combined Schools Music Festival. 
     
     - title: Student Study Assistant
       institution: St Leonard's College 
       year: 2016 - 2018
-      description: I would assist and teach students in the library on weekends in any subject they required help with. 
+      description: Tutored students in the library on weekends in any subject they required help with, particularly mathematics, music, economics and physics. 
       
 
 - title: Service
@@ -90,11 +90,11 @@
   contents:
     - title: Organiser of Concert Memorial for Angus Gray
       year: 2022
-      description: I was artistic director, project manager and choir conductor of a large memorial (450 attendants, 40 participating musicians) for a dearly beloved friend and inspiring musician from St Leonard’s College, held in the newly developed Leonardian Centre at the College, a video recording of which can be found <a href="https://www.youtube.com/watch?v=rdWitM2ItZA&feature=youtu.be">here</a>.
+      description: Artistic director, project manager and choir conductor of a large memorial (450 attendants, 40 participating musicians) for a dearly beloved friend and inspiring musician from St Leonard’s College, held in the newly developed Leonardian Centre at the College, a video recording of which can be found <a href="https://www.youtube.com/watch?v=rdWitM2ItZA&feature=youtu.be">here</a>.
     - title: Outdoor Education Leader
       institution: St Leonard's College
       year: 2021 - present
-      description: I am an assistant leader on six-day Year 10 hikes held in the Mt Buller region. 
+      description: Assistant leader on six-day Year 10 hikes held in the Mt Buller region. 
     - title: Organiser of 100k's Around the Bay for R U OK?
       institution: Private fundraising event
       year: 2020
@@ -108,7 +108,7 @@
 - title: Funding
   type: time_table
   contents:
-    - title: <a href="https://funds.effectivealtruism.org/funds/far-future">Long Term Future Fund</a> grant of $8,000USD 
+    - title: <a href="https://funds.effectivealtruism.org/funds/far-future">Long Term Future Fund</a> $8,000USD grant
       institution: Open Philanthropy
       year: 2023
       description: Six weeks of full time work to distill Singular Learning Theory for the broader AI community. 
