@@ -6,14 +6,19 @@ nav: false
 ---
 
 # Distilling SLT on LessWrong
+## [Distilling Singular Learning Theory](https://www.lesswrong.com/s/czrXjvCLsqGepybHC)
 
-Thanks to a grant from the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future), I am currently writing a sequence of posts on LessWrong that distills the very pure-mathematical Singular Learning Theory and translates the key lessons, claims and findings of my thesis into a more palatable format. The theory could go some way to helping the Alignment problem with potential applications in mechanistic interpretability. 
-
-**Expected publish date:** Friday 16th June 2023 
+Thanks to a grant from the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future), I have written a LessWrong sequence called Distilling SLT which translates the key lessons, claims and findings of my masters thesis into a more palatable format. The posts were published to coincide with the initial Workshop on [Singular Learning Theory and Alignment](https://singularlearningtheory.com/), and as such the final post of the sequence outlines a research agenda for applying SLT to AI Alignment via a spectroscopic probe detecting phase transitions in learning. 
 
 <p align="center">
 <img src="{{site.baseurl}}/DSLT_imgs/2_animate_K_non_true_param_C=0.1_v2_compress.gif" style="max-width:60%;">
 </p>
+
+# Talk at SLT Summit for Alignment June 2023
+
+<iframe width="728" height="410" src="https://www.youtube.com/embed/yxv8aDPHI9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+In this talk I present the key ideas of the Singular Learning Theory perspective on phase transitions in statistical models. I show toy examples of simple loss landscapes that demonstrate why the RLCT is so important to phase transitions, and present the work from my masters thesis which demonstrates examples of first and second order phase transitions in two layer feedforward ReLU neural networks. 
 
 # Master's Thesis 
 
