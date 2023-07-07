@@ -8,6 +8,18 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+h1 {
+  font-size: 28px; /* Adjust the value to your desired font size */
+}
+
+h2 {
+  font-size: 24px; /* Adjust the value to your desired font size */
+}
+
+h3 {
+  font-size: 20px; /* Adjust the value to your desired font size */
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
