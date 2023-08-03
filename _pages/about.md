@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 I am a mathematician, musician, and hiker. Intuitively, these things feel deeply interconnected to me, though many people are surprised at how orthogonal these interests seemingly are. At the very least, they each fill me with joy through a combination of beauty, love and wildness. 
 
 
-I recently studied a Master's of Mathematics at The University of Melbourne, completing a thesis on [Phase Transitions in Neural Networks](http://therisingsea.org/notes/MSc-Carroll.pdf), under the supervision of Dr. Daniel Murfet, which explains the key messages of Sumio Watanabe's Singular Learning Theory. I have recently turned this into a [sequence on LessWrong](https://www.lesswrong.com/s/czrXjvCLsqGepybHC). You can read more about my work here:
+YI recently studied a Master's of Mathematics at The University of Melbourne, completing a thesis on [Phase Transitions in Neural Networks](http://therisingsea.org/notes/MSc-Carroll.pdf), under the supervision of Dr. Daniel Murfet, which explains the key messages of Sumio Watanabe's Singular Learning Theory. I have recently turned this into a [sequence on LessWrong](https://www.lesswrong.com/s/czrXjvCLsqGepybHC). You can read more about my work here:
 
 <h3 align="center">
 <a href="/mathematics/SLT/">Singular Learning Theory</a>
@@ -36,7 +36,7 @@ I have also completed a Diploma of Music in Clarinet performance, and I thorough
 In 2022/23, I have been a lead hiking guide on the 6-day Overland Track with Tasmanian Walking Company. It has been an immense privilege to traverse this parallel universe over 16 times in the past 12 months. Between this work and other recreational trips, I spent over 120 days in wilderness in 2022/23. You can see photos of the most magical place on earth here:
 
 <h3 align="center">
-<a href="/hiking/gallery/">Overland Gallery</a>
+<a href="/hiking/overland gallery/">Overland Gallery</a>
 </h3>
 
 <style>
