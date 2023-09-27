@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['_config.yml', '_pages/about.md', '_pages/cv.md', '_data/cv.yml', '_layouts/about.html', '_includes/image-gallery.html', '_pages/reflection.md', '_includes/header.html', '_pages/SLT.md', '_pages/notes.md']
+recent_files = ['_config.yml', '_pages/about.md', '_pages/cv.md', '_data/cv.yml', '_layouts/about.html', '_includes/image-gallery.html', '_pages/reflection.md', '_includes/header.html', '_pages/SLT.md', '_pages/notes.md', '_sass/_base.scss', '_pages/overland gallery.md']
 
 [main]
 version = 0.2.0

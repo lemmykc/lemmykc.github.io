@@ -9,3 +9,5 @@ _site
 Gemfile.lock
 vendor
 
+.spyproject/config/backups/workspace.ini.bak
+.spyproject/config/workspace.ini
