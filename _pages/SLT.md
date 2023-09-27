@@ -16,7 +16,6 @@ At present my research is focused on the application of Singular Learning Theory
 
 You can find the code used to generate my Bayesian posterior experiments using HMC [here](https://github.com/lemmykc/phase-transitions-neural-networks).
 
-### Cite My Work
 If you would like to cite this work please use the following BibTeX reference:
 ```bibtex
 @mastersthesis{carroll2021phase,
@@ -34,7 +33,6 @@ If you would like to cite this work please use the following BibTeX reference:
 
 Thanks to a grant from the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future), I have written a LessWrong sequence called Distilling SLT which translates the key lessons, claims and findings of my masters thesis into a more palatable format. The posts were published to coincide with the initial Workshop on [Singular Learning Theory and Alignment](https://devinterp.com). 
 
-### Cite My Work
 If you would like to cite this work please use the following BibTeX reference:
 ```bibtex
 @misc{DSLT2023lesswrong,
@@ -50,13 +48,15 @@ If you would like to cite this work please use the following BibTeX reference:
 ## Talk at SLT Summit for Alignment June 2023
 In this talk I present the key ideas of the Singular Learning Theory perspective on phase transitions in statistical models. I show toy examples of simple loss landscapes that demonstrate why the RLCT is so important to phase transitions, and present the work from my masters thesis which demonstrates examples of first and second order phase transitions in two layer feedforward ReLU neural networks. 
 
-<iframe width="364" height="205" src="https://www.youtube.com/embed/yxv8aDPHI9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div style="text-align:center; margin-top:20px; margin-bottom:20px;">
+    <iframe width="364" height="205" src="https://www.youtube.com/embed/yxv8aDPHI9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Master's Completion Talk 
 In this talk I explain how to inerpret the phase transitions demonstrated in my thesis through the lens of Singular Learning Theory to an audience of fellow Master's students. 
 
+<div style="text-align:center; margin-top:20px; margin-bottom:20px;">
 <iframe width="364" height="205" src="https://www.youtube.com/embed/S-SxM2-7tiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+</div>
 
 
