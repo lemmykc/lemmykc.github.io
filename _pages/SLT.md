@@ -43,6 +43,20 @@ If you would like to cite this work please use the following BibTeX reference:
 }
 ```
 
+## [Growth and Form in a Toy Model of Superposition](https://www.lesswrong.com/posts/jvGqQGDrYzZM4MyaN/growth-and-form-in-a-toy-model-of-superposition) on LessWrong
+This post distills [Dynamical and Bayesian Phase Transitions in a Toy Model of Superposition](https://arxiv.org/abs/2310.06301) by Chen et al. (2023), where they study developmental stages of the Toy Model of Superposition, understanding growth and form from the perspective of SLT. This work was supported by Lightspeed grants. 
+
+If you would like to cite this work please use the following BibTeX reference:
+```bibtex
+@misc{TMS1_2023lesswrong,
+  title={Growth and Form in a Toy Model of Superposition},
+  author={Liam Carroll AND Edmund Lau},
+  year={2023},
+  howpublished={\url{https://www.lesswrong.com/posts/jvGqQGDrYzZM4MyaN/growth-and-form-in-a-toy-model-of-superposition}},
+}
+```
+
+
 # Talks 
 
 ## Talk at SLT Summit for Alignment June 2023

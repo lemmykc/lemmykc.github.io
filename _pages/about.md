@@ -24,6 +24,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a mathematician, musician, and hiker. Intuitively, these things feel deeply interconnected to me, though many people are surprised at how orthogonal these interests seemingly are. At the very least, they each fill me with joy through a combination of beauty, love and wildness. 
 
+I am currently working as a researcher on [Developmental Interpretability](https://www.lesswrong.com/s/SfFQE8DXbgkjk62JK/p/TjaeCWvLZtEDAS5Ex) which aims to apply Singular Learning Theory (SLT) to the problem of AI alignment by understanding phases and phase transitions across the course of model training. I am collaborating with [Timaeus](https://timaeus.co) and am independently funded by [Lightspeed Grants](https://lightspeedgrants.org). 
+
 
 I recently studied a Master's of Mathematics at The University of Melbourne, completing a thesis on [Phase Transitions in Neural Networks](http://therisingsea.org/notes/MSc-Carroll.pdf), under the supervision of Dr. Daniel Murfet, which explains the key messages of Sumio Watanabe's Singular Learning Theory. I have recently turned this into a [sequence on LessWrong](https://www.lesswrong.com/s/czrXjvCLsqGepybHC). You can read more about my work here:
 
