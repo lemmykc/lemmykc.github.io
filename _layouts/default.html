@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include nav.html %}
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  <script src="{{ '/js/theme.js' | relative_url }}"></script>
+  <script src="{{ '/js/nav.js' | relative_url }}"></script>
+  {% if page.layout == 'gallery' %}
+  <script src="{{ '/js/gallery.js' | relative_url }}"></script>
+  {% endif %}
+  {% if page.layout == 'home' %}
+  <script src="{{ '/js/gallery-card.js' | relative_url }}" defer></script>
+  {% endif %}
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.david-lindner.com)",
+      "WebFetch(domain:tegmark.org)",
+      "WebFetch(domain:www.jessesingal.com)",
+      "WebFetch(domain:www.scottaaronson.blog)",
+      "WebFetch(domain:karpathy.ai)",
+      "WebFetch(domain:www.damtp.cam.ac.uk)",
+      "WebFetch(domain:www.maxlangenkamp.me)",
+      "WebFetch(domain:maxlangenkamp.me)",
+      "WebFetch(domain:jxnl.co)",
+      "WebFetch(domain:patrickcollison.com)",
+      "WebFetch(domain:stephenmalina.com)",
+      "WebFetch(domain:www.neelnanda.io)",
+      "WebFetch(domain:lukethorburn.com)",
+      "WebFetch(domain:sethlazar.org)",
+      "Bash(test:*)",
+      "Bash(bundle install:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}

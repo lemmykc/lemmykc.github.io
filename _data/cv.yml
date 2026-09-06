@@ -1,0 +1,94 @@
+- title: Professional Experience
+  contents:
+    - title: Researcher in AI Safety
+      institution: Gradient Institute (joint w. Timaeus, 2024)
+      year: 2024 — present
+      description:
+        - Co-led research report on measuring AI capabilities for UK AI Safety Institute, connecting Singular Learning Theory with psychometric analysis.
+        - Developing UK AISI findings into public article series on validity of AI evaluations.
+        - Co-authored report on risks from governed multi-agent AI systems, commissioned by the Australian Department of Industry, Science and Resources.
+        - Conducted horizon scanning on frontier AI developments for a major financial institution.
+        - Designed and presented technical AI education for government agencies and industry.
+        - Lead organiser of Australian AI Safety Forum 2024, connecting researchers, policymakers, and practitioners for a two-day event in Sydney.
+
+    - title: Independent Researcher in AI Safety
+      year: 2023 — 2024
+      description:
+        - Key contributor to the Developmental Interpretability research agenda in collaboration with Timaeus, combining theory from SLT with empirical methods to study structure formation in trained neural networks.
+        - Lead author on paper studying transient structure in transformers; co-author on paper analysing phase transitions in language models.
+        - "Wrote \"Distilling Singular Learning Theory\" article sequence, which became a canonical sequence that helped catalyse Developmental Interpretability as a research agenda."
+        - Lightspeed Grant recipient ($48k USD) for six months of full-time research on Developmental Interpretability; Long Term Future Fund grant recipient ($8k USD) for writing Distilling SLT sequence.
+
+- title: Additional Experience
+  contents:
+    - title: Research Assistant
+      institution: ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S)
+      year: 2023 — 2024
+      description: Developed AI recommender system simulation.
+
+    - title: Lead Hiking Guide
+      institution: Tasmanian Walking Company
+      year: 2022 — 2023
+      description: Led six-day hikes on Tasmania's Overland Track for groups of 12, providing interpretations and hospitality while managing safety and logistics.
+
+    - title: Mathematics Tutor
+      institution: Ormond College (2024) and University of Melbourne (2021–2022)
+      year: 2021 — 2024
+      description: Tutor for Calculus 1 and 2 subjects.
+
+    - title: Data Scientist
+      institution: Resilient Youth Australia
+      year: 2019 — 2022
+      description: Developed statistical methodology for test-retest analysis; created visualisations to communicate mental health survey results to school clients.
+
+- title: Education
+  contents:
+    - title: Master of Science (Applied Mathematics)
+      institution: University of Melbourne
+      year: 2020 — 2021
+      description:
+        - Thesis in <a href="/assets/pdf/PhaseTransitions_NeuralNetworks_LiamCarroll.pdf">Phase Transitions in Neural Networks</a> supervised by Dr. Daniel Murfet.
+        - title: "Pure Mathematics"
+          contents:
+            - Functional Analysis
+            - Algebraic Geometry
+            - Lie Algebras
+            - Partial Differential Equations
+        - title: "Applied Mathematics"
+          contents:
+            - Advanced Methods Transforms
+            - Random Matrix Theory
+            - Mathematical Biology
+            - Advanced Methods Differential Equations
+        - title: "Statistics"
+          contents:
+            - Mathematical Statistics
+            - Statistical Machine Learning
+            - Stochastic Calculus with Applications
+
+    - title: Bachelor of Science (Applied Mathematics)
+      institution: University of Melbourne
+      year: 2016 — 2019
+      description:
+        - Majored in Applied Mathematics with additional subjects in Pure Mathematics, Statistics, Physics, Computer Science and Music.
+
+    - title: Diploma of Music (Clarinet Performance)
+      institution: University of Melbourne
+      year: 2016 — 2019
+      description:
+        - Majored in Clarinet Performance and a regular member of the Conservatorium Wind Symphony.
+
+- title: Service
+  contents:
+    - title: Organiser of Concert Memorial for Angus Gray
+      year: "2022"
+      description: Artistic director, project manager and choir conductor of a large memorial (450 attendants, 40 participating musicians) for a dearly beloved friend and inspiring musician from St Leonard's College. A video recording can be found <a href="https://www.youtube.com/watch?v=rdWitM2ItZA">here</a>.
+
+    - title: Outdoor Education Leader
+      institution: St Leonard's College
+      year: 2021 — present
+      description: Assistant leader on six-day Year 10 hikes held in the Mt Buller region.
+
+    - title: Organiser of 100k's Around the Bay for R U OK?
+      year: "2020"
+      description: Organised a 24hr 100km charity walk with a group of friends to raise money for R U OK? and promote their main messages of social cohesion through conversation.

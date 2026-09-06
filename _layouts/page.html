@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{% if page.background_image %}
+<section class="atmosphere-section atmosphere-section--page">
+  <div class="atmosphere-bg">
+    <img src="{{ page.background_image | relative_url }}" alt="" class="atmosphere-img" loading="lazy">
+  </div>
+  <div class="content-wrapper atmosphere-content">
+    {% if page.title %}
+    <header class="page-header">
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+      {% endif %}
+    </header>
+    {% endif %}
+
+    <div class="page-content">
+      {{ content }}
+    </div>
+  </div>
+</section>
+{% else %}
+<article class="content-wrapper">
+  {% if page.title %}
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+  {% endif %}
+
+  <div class="page-content">
+    {{ content }}
+  </div>
+</article>
+{% endif %}

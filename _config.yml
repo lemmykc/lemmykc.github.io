@@ -1,0 +1,28 @@
+title: Liam Carroll
+description: >
+  Mathematician, musician, hiker. AI safety research, Singular Learning
+  Theory, the Overland Track, and Australian classical music.
+url: https://www.liamcarroll.au
+baseurl: ""
+lang: en
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+include: ['_pages']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "assets/**/*.*"
+    values:
+      sitemap: false

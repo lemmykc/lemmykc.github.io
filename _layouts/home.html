@@ -1,0 +1,121 @@
+---
+layout: default
+---
+
+<!-- Atmosphere 1: Hero + Bio + Slideshow (fagus sunset) -->
+<section class="atmosphere-section atmosphere-section--top">
+  <div class="atmosphere-bg">
+    <img src="{{ '/assets/img/homepage/fagus-sunset.jpeg' | relative_url }}" alt="" class="atmosphere-img" loading="lazy">
+  </div>
+  <div class="content-wrapper atmosphere-content">
+    <section class="hero">
+      <div class="hero-photo">
+        <img src="{{ '/assets/img/profile.jpeg' | relative_url }}" alt="Liam Carroll on the Overland Track, Cradle Mountain in winter" width="400">
+      </div>
+      <div class="hero-text">
+        <h1>Liam Carroll</h1>
+        <p class="tagline">Mathematician, musician, hiker.<br>Melbourne, Australia.</p>
+        <p class="hero-contact">
+          <a href="mailto:lemmykc@gmail.com">lemmykc@gmail.com</a>
+          <span class="sep">&middot;</span>
+          <a href="https://www.linkedin.com/in/lemmykc" target="_blank" rel="noopener">LinkedIn</a>
+        </p>
+      </div>
+    </section>
+
+    <section class="bio">
+      {{ content }}
+    </section>
+
+    <!-- Gallery link card: three panels that crossfade to random photos -->
+    {% assign card_images = site.static_files | where_exp: "f", "f.path contains '/assets/img/overland-cards/'" %}
+    <a href="{{ '/hiking/gallery/' | relative_url }}" class="gallery-card"
+       data-gallery-card
+       data-pool='[{% for i in card_images %}"{{ i.name }}"{% unless forloop.last %},{% endunless %}{% endfor %}]'
+       data-base="{{ '/assets/img/overland-cards/' | relative_url }}">
+      <div class="gallery-card__panels">
+        <div class="gallery-card__panel"></div>
+        <div class="gallery-card__panel"></div>
+        <div class="gallery-card__panel"></div>
+      </div>
+      <div class="gallery-card__body">
+        <span class="gallery-card__eyebrow">For more photos</span>
+        <span class="gallery-card__title">Overland Track Gallery</span>
+        <span class="gallery-card__meta">85 photos from Tasmania&rsquo;s wilderness <span class="gallery-card__arrow">&rarr;</span></span>
+      </div>
+    </a>
+
+    {% comment %}
+    <!-- Panoramic crossfade slideshow (disabled — uncomment to restore) -->
+    <div class="slideshow-single" data-slideshow="single" data-interval="6000">
+      <img src="{{ '/assets/img/homepage/dolerite-summit.jpeg' | relative_url }}" alt="Dolerite columns from the summit" class="active">
+      <img src="{{ '/assets/img/homepage/boathouse-tarn.jpeg' | relative_url }}" alt="Boathouse reflected in alpine tarn">
+      <img src="{{ '/assets/img/homepage/eucalyptus-plateau.jpeg' | relative_url }}" alt="White eucalyptus with mountain plateau">
+      <img src="{{ '/assets/img/homepage/richsia-cradle.jpeg' | relative_url }}" alt="Richsia flowers with Cradle Mountain">
+      <img src="{{ '/assets/img/homepage/snow-gums.jpeg' | relative_url }}" alt="Snow gums in highland forest">
+      <img src="{{ '/assets/img/homepage/cushion-plant.jpeg' | relative_url }}" alt="Cushion plants on alpine plateau">
+    </div>
+    {% endcomment %}
+  </div>
+</section>
+
+{% if page.recent_work %}
+<!-- Atmosphere 2: Recent Work (buttongrass sunset) -->
+<section class="atmosphere-section atmosphere-section--continued">
+  <div class="atmosphere-bg">
+    <img src="{{ '/assets/img/homepage/buttongrass-sunset.jpeg' | relative_url }}" alt="" class="atmosphere-img" loading="lazy">
+  </div>
+  <div class="content-wrapper atmosphere-content">
+    <section class="recent-work">
+      <h2>Recent Work</h2>
+      <ul class="work-list">
+        {% for item in page.recent_work %}
+        <li class="work-item">
+          <div class="work-meta">
+            <span class="work-date">{{ item.date }}</span>
+            <span class="work-venue">{{ item.venue }}</span>
+          </div>
+          <div class="work-details">
+            <a href="{{ item.url }}" class="work-title" target="_blank" rel="noopener">{{ item.title }}</a>
+            {% if item.authors %}
+            <p class="work-authors">{{ item.authors }}</p>
+            {% endif %}
+            {% if item.description %}
+            <p class="work-description">{{ item.description }}</p>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+  </div>
+</section>
+{% endif %}
+
+<script>
+// Generic crossfade slideshow for panoramic panel
+(function() {
+  var containers = document.querySelectorAll('[data-slideshow]');
+  containers.forEach(function(container) {
+    var images = container.querySelectorAll('img');
+    if (images.length < 2) return;
+
+    var interval = parseInt(container.getAttribute('data-interval')) || 6000;
+    var current = 0;
+
+    // Randomise starting image
+    var startIdx = Math.floor(Math.random() * images.length);
+    if (startIdx !== 0) {
+      images[0].classList.remove('active');
+      images[startIdx].classList.add('active');
+      current = startIdx;
+    }
+
+    setInterval(function() {
+      images[current].classList.remove('active');
+      current = (current + 1) % images.length;
+      images[current].classList.add('active');
+    }, interval);
+  });
+})();
+</script>
